@@ -1,0 +1,184 @@
+Delhi, Temperature: 32°C Humidity: 60% Condition: Sunny
+Mumbai, Temperature: 30°C Humidity: 70% Condition: Partly Cloudy
+Bangalore, Temperature: 28°C Humidity: 75% Condition: Rainy
+Chennai, Temperature: 31°C Humidity: 65% Condition: Clear
+Kolkata, Temperature: 29°C Humidity: 80% Condition: Cloudy
+Hyderabad, Temperature: 34°C Humidity: 55% Condition: Sunny
+Pune, Temperature: 27°C Humidity: 78% Condition: Showers
+Jaipur, Temperature: 35°C Humidity: 50% Condition:Sunny
+Lucknow,Temperature: 33°C Humidity:62% Condition:Partly Cloudy
+Ahmedabad, Temperature: 36°C Humidity: 45% Condition: Clear
+Chandigarh, Temperature: 31°C Humidity: 68%, Condition: Rainy
+Kochi, Temperature: 26°C Humidity: 85% Condition: Showers
+Indore, Temperature: 30°C Humidity: 65% Condition: Cloudy
+Patna, Temperature: 32°C Humidity: 58% Condition: Clear
+Bhopal, Temperature: 29°C Humidity: 70% Condition: Sunny
+Coimbatore, Temperature: 27°C Humidity: 75% Condition: Partly Cloudy
+Visakhapatnam, Temperature: 33°C Humidity: 63% Condition: Rainy
+Nagpur, Temperature: 35°C Humidity: 55% Condition: Sunny
+Kanpur, Temperature: 30°C Humidity: 68% Condition: Clear
+Agra, Temperature: 32°C Humidity: 61% Condition: Cloudy
+Jaipur, Temperature: 35°C Humidity: 50% Condition: Clear
+Mysore, Temperature: 26°C Humidity: 80% Condition: Showers
+Surat, Temperature: 34°C Humidity: 55% Condition: Rainy
+Vadodara, Temperature: 33°C Humidity: 60% Condition: Partly Cloudy
+Nashik, Temperature: 29°C Humidity: 70% Condition: Sunny
+Madurai, Temperature: 31°C Humidity: 65% Condition: Cloudy
+Gurgaon, Temperature: 32°C Humidity: 63% Condition: Clear
+Noida, Temperature: 31°C Humidity: 65% Condition: Sunny
+Gandhinagar, Temperature: 36°C Humidity: 45% Condition: Partly Cloudy
+Ghaziabad, Temperature: 33°C Humidity: 60% Condition: Rainy
+Faridabad, Temperature: 32°C Humidity: 62% Condition: Clear
+Ahmednagar, Temperature: 29°C Humidity: 68% Condition: Sunny
+Amritsar, Temperature: 30°C Humidity: 60% Condition: Clear
+Aurangabad, Temperature: 28°C Humidity: 65% Condition: Partly Cloudy
+Bareilly, Temperature: 32°C Humidity: 58% Condition: Rainy
+Bhavnagar, Temperature: 33°C Humidity: 60% Condition: Clear
+Bhubaneswar, Temperature: 31°C Humidity: 65% Condition: Sunny
+Bikaner, Temperature: 35°C Humidity: 50% Condition: Partly Cloudy
+Dhanbad, Temperature: 31°C Humidity: 65% Condition: Clear
+Durgapur, Temperature: 32°C Humidity: 63% Condition: Rainy
+Guntur, Temperature: 33°C Humidity: 60% Condition: Clear
+Jamnagar, Temperature: 34°C Humidity: 55% Condition: Sunny
+Jhansi, Temperature: 30°C Humidity: 68% Condition: Partly Cloudy
+Kalyan, Temperature: 27°C Humidity: 78% Condition: Showers
+Kozhikode, Temperature: 26°C Humidity: 80% Condition: Showers
+Ludhiana, Temperature: 31°C Humidity: 65% Condition: Cloudy
+Meerut, Temperature: 32°C Humidity: 61% Condition: Partly Cloudy
+Navi Mumbai, Temperature: 27°C Humidity: 78% Condition: Showers
+Pimpri-Chinchwad, Temperature: 27°C Humidity: 78% Condition: Showers
+Rajkot, Temperature: 34°C Humidity: 55% Condition: Rainy
+Ranchi, Temperature: 31°C Humidity: 65% Condition: Cloudy
+Saharanpur, Temperature: 32°C Humidity: 61% Condition: Partly Cloudy
+Solapur, Temperature: 29°C Humidity: 70% Condition: Sunny
+Srinagar, Temperature: 25°C Humidity: 55% Condition: Cloudy
+Thane, Temperature: 27°C Humidity: 78% Condition: Showers
+Tirupati, Temperature: 33°C Humidity: 63% Condition: Rainy
+Udaipur, Temperature: 32°C Humidity: 61% Condition: Partly Cloudy
+Varanasi, Temperature: 33°C Humidity: 60% Condition: Clear
+Vasai-Virar, Temperature: 27°C Humidity: 78% Condition: Showers
+Vijayawada, Temperature: 33°C Humidity: 63% Condition: Rainy
+Warangal, Temperature: 34°C Humidity: 55% Condition: Sunny
+Aurangabad, Temperature: 28°C Humidity: 65% Condition: Partly Cloudy
+Bareilly, Temperature: 32°C Humidity: 58% Condition: Rainy
+Bhavnagar, Temperature: 33°C Humidity: 60% Condition: Clear
+Bhubaneswar, Temperature: 31°C Humidity: 65% Condition: Sunny
+Bikaner, Temperature: 35°C Humidity: 50% Condition: Partly Cloudy
+Dhanbad, Temperature: 31°C Humidity: 65% Condition: Clear
+Durgapur, Temperature: 32°C Humidity: 63% Condition: Rainy
+Guntur, Temperature: 33°C Humidity: 60% Condition: Clear
+Jamnagar, Temperature: 34°C Humidity: 55% Condition: Sunny
+Jhansi, Temperature: 30°C Humidity: 68% Condition: Partly Cloudy
+Kalyan, Temperature: 27°C Humidity: 78% Condition: Showers
+Kozhikode, Temperature: 26°C Humidity: 80% Condition: Showers
+Ludhiana, Temperature: 31°C Humidity: 65% Condition: Cloudy
+Meerut, Temperature: 32°C Humidity: 61% Condition: Partly Cloudy
+Navi Mumbai, Temperature: 27°C Humidity: 78% Condition: Showers
+Pimpri-Chinchwad, Temperature: 27°C Humidity: 78% Condition: Showers
+Rajkot, Temperature: 34°C Humidity: 55% Condition: Rainy
+Ranchi, Temperature: 31°C Humidity: 65% Condition: Cloudy
+Saharanpur, Temperature: 32°C Humidity: 61% Condition: Partly Cloudy
+Solapur, Temperature: 29°C Humidity: 70% Condition: Sunny
+Agartala, Temperature: 28°C Humidity: 65% Condition: Sunny
+Aligarh, Temperature: 31°C Humidity: 60% Condition: Partly Cloudy
+Ambala, Temperature: 32°C Humidity: 62% Condition: Clear
+Asansol, Temperature: 30°C Humidity: 68% Condition: Rainy
+Bhagalpur, Temperature: 33°C Humidity: 60% Condition: Sunny
+Belgaum, Temperature: 29°C Humidity: 70% Condition: Clear
+Bilaspur, Temperature: 34°C Humidity: 55% Condition: Partly Cloudy
+Davangere, Temperature: 31°C Humidity: 65% Condition: Rainy
+Dehradun, Temperature: 32°C Humidity: 61% Condition: Sunny
+Erode, Temperature: 33°C Humidity: 63% Condition: Clear
+Gandhinagar, Temperature: 34°C Humidity: 55% Condition: Partly Cloudy
+Gaya, Temperature: 30°C Humidity: 68% Condition: Rainy
+Gorakhpur, Temperature: 31°C Humidity: 65% Condition: Sunny
+Guwahati, Temperature: 32°C Humidity: 61% Condition: Partly Cloudy
+Hisar, Temperature: 29°C Humidity: 70% Condition: Clear
+Hubli, Temperature: 28°C Humidity: 65% Condition: Rainy
+Imphal, Temperature: 31°C Humidity: 60% Condition: Sunny
+Jabalpur, Temperature: 34°C Humidity: 55% Condition: Clear
+Jammu, Temperature: 33°C Humidity: 63% Condition: Partly Cloudy
+Jhansi, Temperature: 30°C Humidity: 68% Condition: Rainy
+Kakinada, Temperature: 31°C Humidity: 65% Condition: Sunny
+Kannur, Temperature: 32°C Humidity: 61% Condition: Partly Cloudy
+Kochi, Temperature: 29°C Humidity: 70% Condition: Clear
+Kolhapur, Temperature: 30°C Humidity: 68% Condition: Rainy
+Kollam, Temperature: 29°C Humidity: 70% Condition: Sunny
+Kottayam, Temperature: 28°C Humidity: 65% Condition: Cloudy
+Kurnool, Temperature: 31°C Humidity: 60% Condition: Clear
+Madurai, Temperature: 33°C Humidity: 63% Condition: Partly Cloudy
+Mangalore, Temperature: 28°C Humidity: 65% Condition: Rainy
+Mathura, Temperature: 30°C Humidity: 68% Condition: Sunny
+Meerut, Temperature: 32°C Humidity: 61% Condition: Clear
+Moradabad, Temperature: 31°C Humidity: 65% Condition: Cloudy
+Muzaffarpur, Temperature: 32°C Humidity: 62% Condition: Rainy
+Nanded, Temperature: 30°C Humidity: 68% Condition: Sunny
+Nellore, Temperature: 31°C Humidity: 65% Condition: Partly Cloudy
+Puducherry, Temperature: 28°C Humidity: 70% Condition: Rainy
+Raichur, Temperature: 32°C Humidity: 61% Condition: Sunny
+Raipur, Temperature: 31°C Humidity: 65% Condition: Clear
+Rajahmundry, Temperature: 32°C Humidity: 61% Condition: Partly Cloudy
+Rourkela, Temperature: 30°C Humidity: 68% Condition: Rainy
+Saharanpur, Temperature: 31°C Humidity: 65% Condition: Cloudy
+Salem, Temperature: 32°C Humidity: 61% Condition: Sunny
+Shimla, Temperature: 28°C Humidity: 70% Condition: Partly Cloudy
+Patiala, Temperature: 31°C Humidity: 66% Condition: Sunny
+Hapur, Temperature: 30°C Humidity: 69% Condition: Cloudy
+Bhagalpur, Temperature: 32°C Humidity: 63% Condition: Clear
+Panipat, Temperature: 29°C Humidity: 72% Condition: Showers
+Karimnagar, Temperature: 33°C Humidity: 60% Condition: Partly Cloudy
+Firozabad, Temperature: 30°C Humidity: 68% Condition: Rainy
+Nizamabad, Temperature: 34°C Humidity: 57% Condition: Clear
+Anantapur, Temperature: 31°C Humidity: 66% Condition: Sunny
+Bilaspur, Temperature: 29°C Humidity: 72% Condition: Cloudy
+Mathura, Temperature: 32°C Humidity: 63% Condition: Showers
+Shahjahanpur, Temperature: 28°C Humidity: 75% Condition: Rainy
+Tirunelveli, Temperature: 33°C Humidity: 60% Condition: Partly Cloudy
+Ahmadnagar, Temperature: 30°C Humidity: 68% Condition: Clear
+Dhule, Temperature: 29°C Humidity: 72% Condition: Sunny
+Tumkur, Temperature: 31°C Humidity: 66% Condition: Partly Cloudy
+Kollam, Temperature: 28°C Humidity: 75% Condition: Showers
+Ozhukarai, Temperature: 32°C Humidity: 63% Condition: Cloudy
+Kurnool, Temperature: 30°C Humidity: 68% Condition: Sunny
+Udaipur, Temperature: 33°C Humidity: 60% Condition: Clear
+Bellary, Temperature: 29°C Humidity: 72% Condition: Rainy
+Davanagere, Temperature: 30°C Humidity: 68% Condition: Partly Cloudy
+Kadapa, Temperature: 32°C Humidity: 63% Condition: Showers
+Kamarhati, Temperature: 28°C Humidity: 75% Condition: Cloudy
+Kollam, Temperature: 33°C Humidity: 60% Condition: Sunny
+Bihar Sharif, Temperature: 31°C Humidity: 66% Condition: Clear
+Kulti, Temperature: 29°C Humidity: 72% Condition: Rainy
+Barasat, Temperature: 30°C Humidity: 68% Condition: Partly Cloudy
+Ichalkaranji, Temperature: 32°C Humidity: 63% Condition: Showers
+Adoni, Temperature: 28°C Humidity: 75% Condition: Cloudy
+North Dumdum, Temperature: 33°C Humidity: 60% Condition: Sunny
+Sikar, Temperature: 31°C Humidity: 66% Condition: Clear
+Bally, Temperature: 29°C Humidity: 72% Condition: Rainy
+Agartala, Temperature: 30°C Humidity: 68% Condition: Partly Cloudy
+Puducherry, Temperature: 32°C Humidity: 63% Condition: Showers
+Sonipat, Temperature: 28°C Humidity: 75% Condition: Cloudy
+Muzaffarpur, Temperature: 33°C Humidity: 60% Condition: Sunny
+Nagercoil, Temperature: 31°C Humidity: 66% Condition: Clear
+Dimapur, Temperature: 29°C Humidity: 72% Condition: Rainy
+Thanjavur, Temperature: 30°C Humidity: 68% Condition: Partly Cloudy
+Itanagar, Temperature: 32°C Humidity: 63% Condition: Showers
+Aizawl, Temperature: 28°C Humidity: 75% Condition: Cloudy
+Karnal, Temperature: 33°C Humidity: 60% Condition: Sunny
+Bathinda, Temperature: 31°C Humidity: 66% Condition: Clear
+Rajpur, Temperature: 29°C Humidity: 72% Condition: Rainy
+Shimla, Temperature: 30°C Humidity: 68% Condition: Partly Cloudy
+Alwar, Temperature: 32°C Humidity: 63% Condition: Showers
+Muzaffarnagar, Temperature: 28°C Humidity: 75% Condition: Cloudy
+Jhansi, Temperature: 33°C Humidity: 60% Condition: Sunny
+Imphal, Temperature: 31°C Humidity: 66% Condition: Clear
+Agartala, Temperature: 32°C Humidity: 63% Condition: Rainy
+Pune, Temperature: 27°C Humidity: 78% Condition: Showers
+Jaipur, Temperature: 35°C Humidity: 50% Condition: Sunny
+Lucknow, Temperature: 33°C Humidity: 62% Condition: Partly Cloudy
+Ahmedabad, Temperature: 36°C Humidity: 45% Condition: Clear
+Chandigarh, Temperature: 31°C Humidity: 68% Condition: Rainy
+Kochi, Temperature: 26°C Humidity: 85% Condition: Showers
+Indore, Temperature: 30°C Humidity: 65% Condition: Cloudy
+Patna, Temperature: 32°C Humidity: 58% Condition: Clear
+Bhopal, Temperature: 29°C Humidity: 70% Condition: Sunny
+Coimbatore, Temperature: 27°C Humidity: 75% Condition: Partly Cloudy
